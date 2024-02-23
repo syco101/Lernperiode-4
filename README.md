@@ -13,11 +13,18 @@ Heute habe ich mich über die Projekte informiert und ich möchte einen discord 
 [ ] Meinen Bot dazu bringen einen bestimmten Befehl auszuführen wie ein bild zu schicken
 [ ] Französisch Voci Wörter lernen
 [ ] Doku schreiben für das Modul 187
-[ ] 
+[ ] Mehr Tutorials falls nötig für den Discord Bot schauen
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-1				
-...				
-4				
+| Testfallnummer    | Ausgangslage |Eingabe                                             | Ausgabe|
+| ----------| ------- | ------------------------------------------------------------ |------------------------------------|
+|     1      |Bot anschreiben |schreiben schick bild| bild geschickt|
+|    2  x |voci wörter  |  Wort auf deutsch sehen                                                | Französische Antwort geben |
+|   3 x  |Doku schreiben |         Fehler überprüfen                                             | keine Fehler|
+|   4  x |  Video drauf klicken | pause dücken  | Video pausiert|
+|     |    |  |   |
+|       |    |   |   |
+|      |    | |   |
+|    |  |  |
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
