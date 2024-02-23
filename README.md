@@ -6,13 +6,14 @@ Ich bin bis jetzt und hoffentlich auch in der Zukunft gut in Informtik ich hatte
 mehr zu programmiern. Mich mehr an die projekte zu fokusiern. Indem ich mir mehr Zeit dafür nehmen.
 Neu: Ich will mehr c# lernen um besser programmieren zu können.
 Ich denke ich will einen discord Bot programmieren
-20.2.2024
-✍️ Heute habe ich... (50-100 Wörter)
+23.2.2024
+Heute habe ich mich über die Projekte informiert und ich möchte einen discord mod programmieren weil ich das spannend finde und ich denke das es auch nützlich sein kann für mich und meine Freunde. Ich habe aber das Gefühl das es nicht zu lang gehen wird darum überlege ich mir dann noch ein anderes Projekt wenn ich das zu früh abschliese.(61)
 
 27.2.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
+[ ] Meinen Bot dazu bringen einen bestimmten Befehl auszuführen wie ein bild zu schicken
+[ ] Französisch Voci Wörter lernen
+[ ] Doku schreiben für das Modul 187
+[ ] 
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 1				
 ...				
