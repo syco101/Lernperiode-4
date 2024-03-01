@@ -9,11 +9,11 @@ Ich denke ich will einen discord Bot programmieren
 23.2.2024
 Heute habe ich mich über die Projekte informiert und ich möchte einen discord mod programmieren weil ich das spannend finde und ich denke das es auch nützlich sein kann für mich und meine Freunde. Ich habe aber das Gefühl das es nicht zu lang gehen wird darum überlege ich mir dann noch ein anderes Projekt wenn ich das zu früh abschliese.(61)
 
-27.2.2024
+1.3.2024
 [ ] Meinen Bot dazu bringen einen bestimmten Befehl auszuführen wie ein bild zu schicken
-[ ] Französisch Voci Wörter lernen
-[ ] Doku schreiben für das Modul 187
-[ ] Mehr Tutorials falls nötig für den Discord Bot schauen
+[x] Französisch Voci Wörter lernen
+[x] Doku schreiben für das Modul 187
+[x] Mehr Tutorials falls nötig für den Discord Bot schauen
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 | Testfallnummer    | Ausgangslage |Eingabe                                             | Ausgabe|
 | ----------| ------- | ------------------------------------------------------------ |------------------------------------|
@@ -26,8 +26,24 @@ Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 |      |    | |   |
 |    |  |  |
 ✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich Französisch Voci Wörter gelernt von der Unite und weiter an meiner Doku für das Modul 187 geschrieben. Ich habe dort weiter dokumentiert wie ich VMware heruntergeladen habe und wie ich Linux und Windows drauf installiert habe. Ich habe noch ein Youtube Video geschaut damit ich nächstes mal gut loslegen kann beim programieren vom Bot.(57)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
-
+1.3.2024
+[ ] Meinen Bot dazu bringen einen bestimmten Befehl auszuführen wie ein bild zu schicken
+[] Für den bevorstehenden Mathe Test lernen --> Thema Potenzen
+[] Doku schreiben für das Modul 187
+[] Mehr Tutorials falls nötig für den Discord Bot schauen
+Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
+| Testfallnummer    | Ausgangslage |Eingabe                                             | Ausgabe|
+| ----------| ------- | ------------------------------------------------------------ |------------------------------------|
+|     1      |Bot anschreiben |schreiben schick bild| bild geschickt|
+|    2  |Mathe aufgabe lösen  |  Meine Lösung sehen                                              | Richtiges reinschreiben |
+|   3   |Doku schreiben |         Fehler überprüfen                                             | keine Fehler|
+|   4  |  Video drauf klicken | pause dücken  | Video pausiert|
+|     |    |  |   |
+|       |    |   |   |
+|      |    | |   |
+|    |  |  |
+✍️ Heute habe ich... (50-100 Wörter)
 Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
