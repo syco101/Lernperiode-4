@@ -30,20 +30,34 @@ Heute habe ich Französisch Voci Wörter gelernt von der Unite und weiter an mei
 
 1.3.2024
 [ ] Meinen Bot dazu bringen einen bestimmten Befehl auszuführen wie ein bild zu schicken
-[] Für den bevorstehenden Mathe Test lernen --> Thema Potenzen
-[] Doku schreiben für das Modul 187
+[x] Für den bevorstehenden Mathe Test lernen --> Thema Potenzen
+[x] Doku schreiben für das Modul 187
 [] Mehr Tutorials falls nötig für den Discord Bot schauen
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 | Testfallnummer    | Ausgangslage |Eingabe                                             | Ausgabe|
 | ----------| ------- | ------------------------------------------------------------ |------------------------------------|
 |     1      |Bot anschreiben |schreiben schick bild| bild geschickt|
-|    2  |Mathe aufgabe lösen  |  Meine Lösung sehen                                              | Richtiges reinschreiben |
-|   3   |Doku schreiben |         Fehler überprüfen                                             | keine Fehler|
+|    2 x |Mathe aufgabe lösen  |  Meine Lösung sehen                                              | Richtiges reinschreiben |
+|   3  x |Doku schreiben |         Fehler überprüfen                                             | keine Fehler|
 |   4  |  Video drauf klicken | pause dücken  | Video pausiert|
 |     |    |  |   |
 |       |    |   |   |
 |      |    | |   |
 |    |  |  |
-✍️ Heute habe ich... (50-100 Wörter)
-Reflexion
+Heute habe ich viel Mathe gelernt weil wir am Montag eine grosse Prüfung über Potenzen und ich umbedingt eine gute Note will. ich habe noch weiter an der Doku gearbeitet für den Sonntag da das für mich gerade eine höhere Priorität hat als der Discord Bot. Den Bot habe ich ein bisschen in der Freizeit aber weiter programmiert damit ich nicht so hintendrin bin.(64)
+[ ] Meinen Bot dazu bringen einen bestimmten Befehl auszuführen wie ein bild zu schicken
+[] Für den bevorstehenden Wirtschafts test lernen --> Thema recht
+[] Doku schreiben für das Modul 187
+[] Für den Rechnungswesen Test lernen
+Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
+| Testfallnummer    | Ausgangslage |Eingabe                                             | Ausgabe|
+| ----------| ------- | ------------------------------------------------------------ |------------------------------------|
+|     1      |Bot anschreiben |schreiben schick bild| bild geschickt|
+|    2 x |Buchung schreiben  |  Die Lösung anschauen                                             | Richtiges reinschreiben |
+|   3  x |Doku schreiben |         Fehler überprüfen                                             | keine Fehler|
+|   4  |  Ein Recht auf schlagen | es sehen  | es wissen|
+|     |    |  |   |
+|       |    |   |   |
+|      |    | |   |
+|    |  |  |
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
