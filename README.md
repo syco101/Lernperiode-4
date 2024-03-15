@@ -46,18 +46,52 @@ Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 |    |  |  |
 Heute habe ich viel Mathe gelernt weil wir am Montag eine grosse Prüfung über Potenzen und ich umbedingt eine gute Note will. ich habe noch weiter an der Doku gearbeitet für den Sonntag da das für mich gerade eine höhere Priorität hat als der Discord Bot. Den Bot habe ich ein bisschen in der Freizeit aber weiter programmiert damit ich nicht so hintendrin bin.(64)
 [ ] Meinen Bot dazu bringen einen bestimmten Befehl auszuführen wie ein bild zu schicken
-[] Für den bevorstehenden Wirtschafts test lernen --> Thema recht
-[] Doku schreiben für das Modul 187
+[x] Für den bevorstehenden Wirtschafts test lernen --> Thema recht
+[x] Doku schreiben für das Modul 187
 [] Für den Rechnungswesen Test lernen
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 | Testfallnummer    | Ausgangslage |Eingabe                                             | Ausgabe|
 | ----------| ------- | ------------------------------------------------------------ |------------------------------------|
 |     1      |Bot anschreiben |schreiben schick bild| bild geschickt|
-|    2 x |Buchung schreiben  |  Die Lösung anschauen                                             | Richtiges reinschreiben |
+|    2  |Buchung schreiben  |  Die Lösung anschauen                                             | Richtiges reinschreiben |
 |   3  x |Doku schreiben |         Fehler überprüfen                                             | keine Fehler|
-|   4  |  Ein Recht auf schlagen | es sehen  | es wissen|
+|   4  x|  Ein Recht auf schlagen | es sehen  | es wissen|
 |     |    |  |   |
 |       |    |   |   |
 |      |    | |   |
 |    |  |  |
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+
+Heute habe ich für Wirtschaft gelernt isnbesondere das Recht und ich habe meine Modul 187 Doku fast fertig gemacht. Ich musste bei der Doku über das Thema IT Grundschutz etwas schreiben und ich hatte das Thema Firewall mit Christian und Mattiheu. Ich habe ungefähr die hälfte geschaft und schon Anwendungen bei Vmware heruntergeladen.(53)
+
+22.03.2024
+
+[ ] Meinen Bot dazu bringen einen bestimmten Befehl auszuführen wie ein bild zu schicken
+[] Tutorials schauen für den Discord Bot
+[] Doku schreiben für das Modul 187
+[] Für den Englisch Test lernen
+Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
+| Testfallnummer    | Ausgangslage |Eingabe                                             | Ausgabe|
+| ----------| ------- | ------------------------------------------------------------ |------------------------------------|
+|     1      |Bot anschreiben |schreiben schick bild| bild geschickt|
+|    2  |Tutorial suchen  |  Es finden                                        | Es anschauen |
+|   3   |Doku schreiben |         Fehler überprüfen                                             | keine Fehler|
+|   4  |  Ein Englisches Wort auf schlagen | es sehen  | es wissen|
+|     |    |  |   |
+|       |    |   |   |
+|      |    | |   |
+|    |  |  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Formen Sie IhreZusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
