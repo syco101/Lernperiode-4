@@ -2,14 +2,13 @@
 23.2 bis 5.4.2024
 
 ## Grob-Planung
-Ich bin bis jetzt und hoffentlich auch in der Zukunft gut in Informtik ich hatte letztes Semester eine 5 und jetzt habe ich leider bei SQL bei den Kurztests nicht so gut abgeschnitten aber ich denke ich werde wieder eine 5 schaffen. Ich war besonders stark in 431 mit einer 6, in 319 eine 4.5 und  das hatte mich ein wenig entäuscht und in 162 eine 4.5 und in dem war ich zufrieden. Keine. Ich fande insbesondere 319 wichtig aber die anderen waren auch wichtig zb für IPERKA usw.
-mehr zu programmiern. Mich mehr an die projekte zu fokusiern. Indem ich mir mehr Zeit dafür nehmen.
-Neu: Ich will mehr c# lernen um besser programmieren zu können.
-Ich denke ich will einen discord Bot programmieren
+Bis jetzt und hoffentlich auch in der Zukunft bin ich gut in Informatik. Letztes Semester hatte ich eine 5, aber leider habe ich bei den SQL-Kurztests nicht so gut abgeschnitten. Trotzdem denke ich, dass ich wieder eine 5 schaffen werde. Ich war besonders stark in 431 mit einer 6, in 319 mit einer 4,5, was mich ein wenig enttäuscht hat, und in 162 ebenfalls mit einer 4,5, womit ich zufrieden war. Ich fand insbesondere 319 wichtig, aber die anderen waren auch wichtig, zum Beispiel für IPERKA usw., um mehr zu programmieren. Ich möchte mich mehr auf die Projekte fokussieren, indem ich mir mehr Zeit dafür nehme. Neu möchte ich mehr C# lernen, um besser programmieren zu können. Ich denke, ich will einen Discord-Bot programmieren.
 
 
 ## 23.2.2024
-Heute habe ich mich über die Projekte informiert und ich möchte einen discord mod programmieren weil ich das spannend finde und ich denke das es auch nützlich sein kann für mich und meine Freunde. Ich habe aber das Gefühl das es nicht zu lang gehen wird darum überlege ich mir dann noch ein anderes Projekt wenn ich das zu früh abschliese.(61)
+
+Heute habe ich mich über Projekte informiert und möchte einen Discord-Mod programmieren, weil ich das spannend finde und denke, dass es auch nützlich sein kann für mich und meine Freunde. Ich habe allerdings das Gefühl, dass es nicht zu lange dauern wird, deshalb überlege ich mir dann noch ein anderes Projekt, falls ich dieses zu früh abschließe.(61)
+
 
 ## 1.3.2024
 - [ ] Meinen Bot dazu bringen einen bestimmten Befehl auszuführen wie ein bild zu schicken
@@ -26,9 +25,9 @@ Heute habe ich mich über die Projekte informiert und ich möchte einen discord 
 |   4 |  `Video drauf klicken` | `pause dücken`  | `Video pausiert` | x |
 
 
+## Zusammenfassung
 
-
-Heute habe ich Französisch Voci Wörter gelernt von der Unite und weiter an meiner Doku für das Modul 187 geschrieben. Ich habe dort weiter dokumentiert wie ich VMware heruntergeladen habe und wie ich Linux und Windows drauf installiert habe. Ich habe noch ein Youtube Video geschaut damit ich nächstes mal gut loslegen kann beim programieren vom Bot.(57)
+Heute habe ich französische Vokabeln aus der Unité gelernt und weiter an meiner Dokumentation für das Modul 187 geschrieben. Ich habe dokumentiert, wie ich VMware heruntergeladen und Linux sowie Windows darauf installiert habe. Zudem habe ich ein YouTube-Video angeschaut, damit ich das nächste Mal gut vorankomme beim Programmieren des Bots.(57)
 
 ## 1.3.2024
 - [ ] Meinen Bot dazu bringen einen bestimmten Befehl auszuführen wie ein bild zu schicken
@@ -45,8 +44,10 @@ Heute habe ich Französisch Voci Wörter gelernt von der Unite und weiter an mei
 |   3 | `Doku schreiben` | `Fehler überprüfen` | `keine Fehler` | x |
 |   4 | `Video drauf klicken` | `pause drücken` | `Video pausiert` |
 
+## Zusammenfassung
 
-Heute habe ich viel Mathe gelernt weil wir am Montag eine grosse Prüfung über Potenzen und ich umbedingt eine gute Note will. ich habe noch weiter an der Doku gearbeitet für den Sonntag da das für mich gerade eine höhere Priorität hat als der Discord Bot. Den Bot habe ich ein bisschen in der Freizeit aber weiter programmiert damit ich nicht so hintendrin bin.(64)
+Heute habe ich viel Mathe gelernt, weil wir am Montag eine große Prüfung über Potenzen haben und ich unbedingt eine gute Note erzielen möchte. Ich habe auch weiter an der Dokumentation für Sonntag gearbeitet, da dies für mich momentan eine höhere Priorität hat als der Discord-Bot. Den Bot habe ich jedoch ein bisschen in meiner Freizeit weiterprogrammiert, damit ich nicht zu weit zurückfalle.(63)
+
 
 
 - [ ] Meinen Bot dazu bringen einen bestimmten Befehl auszuführen wie ein bild zu schicken
@@ -61,23 +62,39 @@ Heute habe ich viel Mathe gelernt weil wir am Montag eine grosse Prüfung über 
 |   3 | `Doku schreiben` | `Fehler überprüfen` | `keine Fehler` | x 
 |   4 | `Ein Recht auf schlagen` | `es sehen` | `es wissen` |
 
+## Zusammenfassung
 
-Heute habe ich für Wirtschaft gelernt isnbesondere das Recht und ich habe meine Modul 187 Doku fast fertig gemacht. Ich musste bei der Doku über das Thema IT Grundschutz etwas schreiben und ich hatte das Thema Firewall mit Christian und Mattiheu. Ich habe ungefähr die hälfte geschaft und schon Anwendungen bei Vmware heruntergeladen.(53)
+Heute habe ich für Wirtschaft gelernt, insbesondere das Recht, und ich habe meine Modul-187-Dokumentation fast fertig gemacht. Ich musste in der Dokumentation über das Thema IT-Grundschutz etwas schreiben, und ich hatte das Thema Firewall mit Christian und Matthieu. Ich habe ungefähr die Hälfte geschafft und schon Anwendungen bei VMware heruntergeladen.53
 
 ## 22.03.2024
 
 - [ ] Meinen Bot dazu bringen einen bestimmten Befehl auszuführen wie ein bild zu schicken
-- [ ] [Tutorials](https://www.youtube.com/watch?v=cZNQCAD9WgI&t=262s) schauen für den Discord Bot
-- [ ] Doku schreiben für das Modul 187
+- [x] [Tutorials](https://www.youtube.com/watch?v=cZNQCAD9WgI&t=262s) schauen für den Discord Bot
+- [x] Doku schreiben für das Modul 187
 - [ ] Für den Englisch Test lernen
 
 
-| Testfallnummer    | Ausgangslage |Eingabe   | Ausgabe|
-| ----------| ------- | ------------------------------------------------------------ |------------------------------------|
+| Testfall-Nummer |	Ausgangslage (Given) |	Eingabe (When) |	Ausgabe (Then) |	Erfüllt? |
+| --------------- | ------------------- | --------------- | ---------------- | -------- |
 |   1  | `Bot anschreiben` | `!funnypicture` | `bild geschickt` |
-|   2  | `Tutorial suchen` | `Es finden`  | `Es anschauen` |
-|   3  | `Doku schreiben` | `Fehler überprüfen` | `keine Fehler` |
+|   2  | `Tutorial suchen` | `Es finden`  | `Es anschauen` | x |
+|   3  | `Doku schreiben` | `Fehler überprüfen` | `keine Fehler` | x |
 |   4  | `Ein Englisches Wort aufschlagen` | `es sehen`  | `es wissen` |
+
+## Zusammenfassung
+
+Heute habe ich am Anfang des Nachmittags an meinem Bot gearbeitet und bin ein Stück weitergekommen, bin aber noch lange nicht am Ziel. Deswegen werde ich versuchen, ihn in zwei Wochen fertigzustellen. Später habe ich kurz mein GitHub verschönert und verbessert und denke, dass es jetzt ein gutes Layout hat. Zum Schluss habe ich mit meiner Dokumentation angefangen und bin bis zur Hälfte gekommen. Ich werde sie am Sonntag fertigstellen.(70)
+
+## 5.04.2024
+
+- [ ] Meinen Bot dazu zu bringen, einen bestimmten Befehl auszuführen wie zb ein bild zu schicken
+- [ ] Die Doku 6 für das Modul 187 schreiben
+
+| Testfall-Nummer |	Ausgangslage (Given) |	Eingabe (When) |	Ausgabe (Then) |	Erfüllt? |
+| --------------- | ------------------- | --------------- | ---------------- | -------- |
+|   1  | `Bot anschreiben` | `!funnypicture` | `bild geschickt` | |
+|   2  | `Doku schreiben` | `Fehler überprüfen` | `keine Fehler` | |
+
 
 
 
