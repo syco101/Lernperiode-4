@@ -21,19 +21,12 @@ Heute habe ich mich über die Projekte informiert und ich möchte einen discord 
 | Testfall-Nummer |	Ausgangslage (Given) |	Eingabe (When) |	Ausgabe (Then) |	Erfüllt? |
 | --------------- | ------------------- | --------------- | ---------------- | -------- |
 |     1      | Bot anschreiben | schreiben schick bild | bild geschickt |
+|    2   |voci wörter  |  Wort auf deutsch sehen      | Französische Antwort geben |
+|   3  |Doku schreiben |         Fehler überprüfen   | keine Fehler|
+|   4  |  Video drauf klicken | pause dücken  | Video pausiert|
 
 
 
-| Testfallnummer    | Ausgangslage |Eingabe                                             | Ausgabe|
-| ----------| ------- | ------------------------------------------------------------ |------------------------------------|
-
-|    2  x |voci wörter  |  Wort auf deutsch sehen                                                | Französische Antwort geben |
-|   3 x  |Doku schreiben |         Fehler überprüfen                                             | keine Fehler|
-|   4  x |  Video drauf klicken | pause dücken  | Video pausiert|
-|     |    |  |   |
-|       |    |   |   |
-|      |    | |   |
-|    |  |  |
 
 Heute habe ich Französisch Voci Wörter gelernt von der Unite und weiter an meiner Doku für das Modul 187 geschrieben. Ich habe dort weiter dokumentiert wie ich VMware heruntergeladen habe und wie ich Linux und Windows drauf installiert habe. Ich habe noch ein Youtube Video geschaut damit ich nächstes mal gut loslegen kann beim programieren vom Bot.(57)
 
