@@ -97,10 +97,10 @@ Heute habe ich am Anfang des Nachmittags an meinem Bot gearbeitet und bin ein St
 
 ## Reflexion
 
-In dieser Lernperiode hatte ich das Ziel, einen Discord-Bot zu programmieren. Zu Beginn stieß ich auf Schwierigkeiten, da ich kein geeignetes Tutorial auf YouTube finden konnte. Zudem habe ich viel Zeit mit dem Verfassen der Dokumentationen für das Modul 187 verbracht, was sich zwar als lohnenswert erwies, jedoch auch Zeit von meinem Projekt beanspruchte. Für die nächste Periode plane ich, eine HTML-Website zu programmieren. Dank einer Schnupperlehre, bei der ich bereits eine Seite programmiert hatte, verfüge ich über ein grundlegendes Wissen. Ich denke dies wäre auch eine neue gute Erfahrung für mich.
+In dieser Lernperiode hatte ich mir das Ziel gesetzt, einen Discord-Bot zu programmieren. Zu Beginn begegnete ich Schwierigkeiten, da ich kein passendes Tutorial auf YouTube finden konnte. Außerdem investierte ich viel Zeit in das Verfassen der Dokumentation für das Modul 187, was sich zwar als wertvoll erwies, jedoch auch Zeit in Anspruch nahm, die meinem Projekt fehlte. Mein Bot funktioniert noch nicht ganz einwandfrei, da immer wieder Fehler auftreten, aber ich bin entschlossen, ihn fertigzustellen. Für die nächste Periode plane ich, eine HTML-Website zu programmieren. Dank einer Schnupperlehre, bei der ich bereits eine Seite programmiert habe, besitze ich ein grundlegendes Verständnis. Ich denke, dies wäre auch eine gute neue Erfahrung für mich. (141)
 
 VV:
-Ich beabsichtige, mich künftig konzentrierter auf das Programmieren zu fokussieren und weniger Zeit mit schulischen Aufgaben zu verbringen. Vielleicht könnte ich auch Programmierübungen lösen, um meine Fähigkeiten zu verbessern.
+Ich plane, mich künftig stärker auf das Programmieren zu konzentrieren und weniger Zeit für schulische Aufgaben aufzuwenden. Vielleicht könnte ich auch Programmierübungen durchführen, um meine Fähigkeiten zu verbessern.
 
 
 
@@ -112,5 +112,3 @@ Ich beabsichtige, mich künftig konzentrierter auf das Programmieren zu fokussie
 
 
 
-
-Formen Sie IhreZusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
