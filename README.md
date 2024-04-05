@@ -95,8 +95,12 @@ Heute habe ich am Anfang des Nachmittags an meinem Bot gearbeitet und bin ein St
 |   1  | `Bot anschreiben` | `!funnypicture` | `bild geschickt` | |
 |   2  | `Doku schreiben` | `Fehler überprüfen` | `keine Fehler` | |
 
+## Reflexion
 
+In dieser Lernperiode hatte ich das Ziel, einen Discord-Bot zu programmieren. Zu Beginn stieß ich auf Schwierigkeiten, da ich kein geeignetes Tutorial auf YouTube finden konnte. Zudem habe ich viel Zeit mit dem Verfassen der Dokumentationen für das Modul 187 verbracht, was sich zwar als lohnenswert erwies, jedoch auch Zeit von meinem Projekt beanspruchte. Für die nächste Periode plane ich, eine HTML-Website zu programmieren. Dank einer Schnupperlehre, bei der ich bereits eine Seite programmiert hatte, verfüge ich über ein grundlegendes Wissen. Ich denke dies wäre auch eine neue gute Erfahrung für mich.
 
+VV:
+Ich beabsichtige, mich künftig konzentrierter auf das Programmieren zu fokussieren und weniger Zeit mit schulischen Aufgaben zu verbringen. Vielleicht könnte ich auch Programmierübungen lösen, um meine Fähigkeiten zu verbessern.
 
 
 
